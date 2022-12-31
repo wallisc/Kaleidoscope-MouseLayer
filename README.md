@@ -2,7 +2,6 @@
  
 This plugin is for enabling certain keys to be overriden to mouse keys when mouse movement is detected.
 
-# Installation
  ## Installation
  1. Find the plugin directory for the Kaleidoscope source. For the Dygma branch of Kaleidoscope it looks like: Arduino\hardware\dygma\samd\libraries\Kaleidoscope\src\kaleidoscope\plugin
  2. Copy the contents of the Src directory into the plugin folder using either git clone or just using the "Clone or download" button from GitHub
